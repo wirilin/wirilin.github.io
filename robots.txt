@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wirilin.github.io/sitemap.html.gz
+Sitemap: https://wirilin.github.io/app/sitemap.html.gz
+Sitemap: https://wirilin.github.io/assets/sitemap.html.gz
+Sitemap: https://wirilin.github.io/css/sitemap.html.gz
+Sitemap: https://wirilin.github.io/includes/sitemap.html.gz
+Sitemap: https://wirilin.github.io/item/sitemap.html.gz
+Sitemap: https://wirilin.github.io/src/sitemap.html.gz
